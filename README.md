@@ -9,6 +9,10 @@ my superpowers :
  - kotlin
  - and more..,
 
+social :
+ - [linkedin](https://www.linkedin.com/in/trian-radis/)
+ - [portfolio](https://trianraportfolio.vercel.app/)
+
 <!--
 **threeanra/threeanra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
