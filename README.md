@@ -1,4 +1,12 @@
-## Hi there 👋
+hello, i'm trian
+i like to explore more about programming and also love cats.
+
+my superpowers :
+ - next.js
+ - react.js
+ - typescript
+ - kotlin
+ - and more..,
 
 <!--
 **threeanra/threeanra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
