@@ -1,5 +1,6 @@
 hello, i'm trian
-i like to explore more about programming and also love cats.
+<br/>
+i love learning more about programming and also love cats.
 
 my superpowers :
  - next.js
