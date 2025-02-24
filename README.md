@@ -13,6 +13,11 @@ social :
  - [linkedin](https://www.linkedin.com/in/trian-radis/)
  - [portfolio](https://trianraportfolio.vercel.app/)
 
+<br/>
+
+![](https://komarev.com/ghpvc/?username=threeanra&color=000000&abbreviated=true)
+
+
 <!--
 **threeanra/threeanra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
